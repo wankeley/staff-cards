@@ -1,0 +1,20 @@
+{
+  "emp001": {
+    "name": "Jeffrey Ansah",
+    "position": "Systems Administrator",
+    "email": "jeffrey@example.com",
+    "phone": "+233000000000"
+  },
+  "emp002": {
+    "name": "Jane Doe",
+    "position": "HR Manager",
+    "email": "jane.doe@example.com",
+    "phone": "+233000000000"
+  },
+  "emp003": {
+    "name": "John Smith",
+    "position": "Sales Executive",
+    "email": "john.smith@example.com",
+    "phone": "+233000000000"
+  }
+}
