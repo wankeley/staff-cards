@@ -2,19 +2,61 @@
   "emp001": {
     "name": "Jeffrey Ansah",
     "position": "Systems Administrator",
-    "email": "jeffrey@example.com",
-    "phone": "+233000000000"
+    "email": "jeffrey.ansah@example.com",
+    "phone": "+233240000001"
   },
   "emp002": {
-    "name": "Jane Doe",
+    "name": "Chris Doe",
     "position": "HR Manager",
     "email": "jane.doe@example.com",
-    "phone": "+233000000000"
+    "phone": "+233240000002"
   },
   "emp003": {
-    "name": "John Smith",
+    "name": "Raymond Smith",
     "position": "Sales Executive",
     "email": "john.smith@example.com",
-    "phone": "+233000000000"
+    "phone": "+233240000003"
+  },
+  "emp004": {
+    "name": "Wendy Mensah",
+    "position": "Software Developer",
+    "email": "kwame.mensah@example.com",
+    "phone": "+233240000004"
+  },
+  "emp005": {
+    "name": "Ama Owusu",
+    "position": "Marketing Officer",
+    "email": "ama.owusu@example.com",
+    "phone": "+233240000005"
+  },
+  "emp006": {
+    "name": "Kofi Asante",
+    "position": "Database Administrator",
+    "email": "kofi.asante@example.com",
+    "phone": "+233240000006"
+  },
+  "emp007": {
+    "name": "Akosua Boateng",
+    "position": "Accountant",
+    "email": "akosua.boateng@example.com",
+    "phone": "+233240000007"
+  },
+  "emp008": {
+    "name": "Yaw Ofori",
+    "position": "Network Engineer",
+    "email": "yaw.ofori@example.com",
+    "phone": "+233240000008"
+  },
+  "emp009": {
+    "name": "Abena Addo",
+    "position": "Customer Service Officer",
+    "email": "abena.addo@example.com",
+    "phone": "+233240000009"
+  },
+  "emp010": {
+    "name": "Kojo Appiah",
+    "position": "Project Manager",
+    "email": "kojo.appiah@example.com",
+    "phone": "+233240000010"
   }
 }
