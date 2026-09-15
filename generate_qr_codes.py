@@ -1,7 +1,7 @@
 """
 Batch-generates a QR code PNG for every staff member in staff.json.
 Each QR code encodes the URL of that person's card, e.g.:
-    https://wankeley.github.io/staff-cards/card.html?id=emp001
+    https://wankeley.github.io/staff-cards/index.html?id=emp001
 
 Setup:
     pip install qrcode[pil]
@@ -21,7 +21,7 @@ OUTPUT_DIR = "qr_codes"
 
 # Change this to your real GitHub Pages URL (and repo name / custom domain
 # once you have one).
-BASE_URL = "https://wankeley.github.io/staff-cards/card.html"
+BASE_URL = "https://wankeley.github.io/staff-cards/index.html"
 
 # ----------------------------------------------------------------------------
 
